@@ -4,9 +4,9 @@
 
 <h3>Currently I am working as an Assistant Professor in Chemistry in an Ideal College, Dhaka, Bangladesh.
 Teaching and learning web development is one of my passions.
-<b> I hope to start web development in the market place from 2026.</b> </h3><br>
+<mark> I hope to start web development in the market place from 2026.</mark> </h3><br>
 
-<h2>Skills: </h2>
+<h1>Skills: </h1>
 <ul>
   <li>HTML / CSS / Bootstrap</li>
   <li>javaScript / jQuery</li>
