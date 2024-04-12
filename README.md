@@ -18,7 +18,7 @@ Teaching and learning web development is one of my passions.
 - 🌱 I’m currently learning React <br> 
 - 👯 I’m looking to collaborate on Github <br>
 - 🤔 I’m looking for help with students. <br>
-  <li> Ask me about Web Development </li>
+ <br><br>
 
 
 
