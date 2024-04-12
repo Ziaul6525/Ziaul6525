@@ -6,13 +6,13 @@ Currently I am working as an Assistant Professor in Chemistry in an Ideal Colleg
 Teaching and learning web development is one of my passions.
 <b> I hope to start web development in the market place from 2026.</b>
 
-Skills: 
+<h2>Skills: </h2>
 <ul>
   <li>HTML / CSS / Bootstrap</li>
   <li>javaScript / jQuery</li>
   <li>PHP / Wordpress</li>
   <li>DM / Website Audit / SEO / SMM</li>
-</ul> 
+</ul> <br><br>
 
 - 🔭 I’m currently working on Teaching Profession. 
 - 🌱 I’m currently learning React  
