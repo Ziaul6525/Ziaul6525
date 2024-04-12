@@ -1,6 +1,6 @@
-## Hi there 👋, I am A K M Ziaul Hasan
-### Web Developer & Digital Marketer
-![Web Developer & Digital Marketer](https://z3online.com/wp-content/uploads/2024/04/banner.jpeg)
+# Hi there 👋, I am A K M Ziaul Hasan
+## Web Developer & Digital Marketer
+![Web Developer & Digital Marketer](https://z3online.com/wp-content/uploads/2024/04/banner.jpeg) <br>
 
 Currently I am working as an Assistant Professor in Chemistry in an Ideal College, Dhaka, Bangladesh.
 Teaching and learning web development is one of my passions.
@@ -12,7 +12,7 @@ Teaching and learning web development is one of my passions.
   <li>javaScript / jQuery</li>
   <li>PHP / Wordpress</li>
   <li>DM / Website Audit / SEO / SMM</li>
-</ul> <br><br>
+</ul> <br>
 <h3> ADDITIONAL INFORMATION</h3>
 - 🔭 I’m currently working on Teaching Profession. <br>
 - 🌱 I’m currently learning React <br> 
