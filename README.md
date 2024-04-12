@@ -2,9 +2,9 @@
 ## Web Developer & Digital Marketer
 ![Web Developer & Digital Marketer](https://z3online.com/wp-content/uploads/2024/04/banner.jpeg) <br>
 
-<h4>Currently I am working as an Assistant Professor in Chemistry in an Ideal College, Dhaka, Bangladesh.
-Teaching and learning web development is one of my passions.</h4>
-<h3><i> I hope to start web development in the market place from 2026.</i> </h3><br>
+<h3>Currently I am working as an Assistant Professor in Chemistry in an Ideal College, Dhaka, Bangladesh.
+Teaching and learning web development is one of my passions.</h3>
+<h3><i> "I hope to start web development in the market place from 2026."</i> </h3><br>
 
 <h2>Skills: </h2>
 <ul>
