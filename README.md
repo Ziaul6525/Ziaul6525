@@ -13,7 +13,7 @@ Teaching and learning web development is one of my passions.
   <li>PHP / Wordpress</li>
   <li>DM / Website Audit / SEO / SMM</li>
 </ul> <br><br>
-
+<h3> ADDITIONAL INFORMATION</h3>
 - 🔭 I’m currently working on Teaching Profession. 
 - 🌱 I’m currently learning React  
 - 👯 I’m looking to collaborate on Github 
